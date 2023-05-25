@@ -9,3 +9,32 @@ I won the [Baidu Scholarship](https://baike.baidu.com/item/%E7%99%BE%E5%BA%A6%E5
 My research interest includes speech synthesis, neural machine translation and automatic music generation. I have published 50+ papers <a href='https://scholar.google.com/citations?user=4FA6C0AAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FRayeRen%2Frayeren.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international AI conferences such as NeurIPS, ICML, ICLR, KDD. 
 
 To promote the communication among the Chinese ML & NLP community, we (along with other 11 young scholars worldwide) founded the [MLNLP community](https://space.bilibili.com/168887299) in 2021. I am honored to be one of the chairs of the MLNLP committee.
+
+我目前任职于白杨时代北京公司，是一名机器人算法工程师。我主要做强化学习的虚实迁移。做过四足小狗的locomotion
+
+我研究生毕业于瑞士洛桑联邦理工学院（EPFL，QS世界排名16），就读机械工程系，自动化控制方向。
+本科毕业于武汉大学物理学系。
+
+我感兴趣的研究方向包括：端到端视觉语义导航，learning based的四足/两足运动学，端到端maniputation，多模态大模型，决策Foundation Model。
+
+仿真平台：Unity MLagent， Isaac gym，
+
+硬件：树莓派，Nvidia Jetson Orin
+
+项目经历：
+
+Unity 避障导航
+
+四足小狗行走
+
+Habitat Object Navigation
+
+Walle 家庭服务机器人 \
+    1. 手眼标定 \
+    2. AnyGrasp抓取算法部署 \
+    3. Moveit 机械臂运动规划 \
+    4. 
+
+火星车脱困
+
+机械臂垒积木
